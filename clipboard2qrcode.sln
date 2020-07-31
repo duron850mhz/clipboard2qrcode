@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clipboard2qrcode", "clipboard2qrcode\clipboard2qrcode.vbproj", "{16CCDBA1-81A4-4119-B934-D18E16D78E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CCDBA1-81A4-4119-B934-D18E16D78E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CCDBA1-81A4-4119-B934-D18E16D78E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CCDBA1-81A4-4119-B934-D18E16D78E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CCDBA1-81A4-4119-B934-D18E16D78E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C430BD6D-D7AF-48DA-81C7-602A4DB7C23D}
+	EndGlobalSection
+EndGlobal
